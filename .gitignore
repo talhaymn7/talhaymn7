@@ -1,0 +1,12 @@
+node_modules/
+
+# calisma/dogrulama ciktilari - kaynak scriptlerden yeniden uretilebilir
+mask.png
+subject_transparent.png
+subject_on_dark.png
+preview_dark.png
+preview_light.png
+preview_logos.png
+shot_*.png
+banner_metrics.json
+stats_block.md

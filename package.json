@@ -1,0 +1,25 @@
+{
+  "name": "github_update",
+  "version": "1.0.0",
+  "description": "Computer Engineering student (Abdullah Gül University, 2022–2027) with a background in Industrial Automation & Mechatronics. Currently active both in industry and in my own startup.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talhaymn7/talhaymn7.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/talhaymn7/talhaymn7/issues"
+  },
+  "homepage": "https://github.com/talhaymn7/talhaymn7#readme",
+  "dependencies": {
+    "playwright": "^1.62.1",
+    "sharp": "^0.35.3"
+  }
+}
