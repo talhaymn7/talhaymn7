@@ -23,8 +23,8 @@ jobs:
         with:
           github_user_name: talhaymn7
           outputs: |
-            dist/snake-dark.svg?color_snake=%2322D3EE&color_dots=%232d3343,%235B21B6,%237C3AED,%23A78BFA,%23DDD6FE
-            dist/snake-light.svg?color_snake=%230891B2&color_dots=%23EBEDF0,%23DDD6FE,%23C4B5FD,%23A78BFA,%237C3AED
+            dist/snake-dark.svg {"color_snake":"#22D3EE","color_dots":["#2d3343","#5B21B6","#7C3AED","#A78BFA","#DDD6FE"]}
+            dist/snake-light.svg {"color_snake":"#0891B2","color_dots":["#EBEDF0","#DDD6FE","#C4B5FD","#A78BFA","#7C3AED"]}
 
       - name: Push snake SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
