@@ -329,13 +329,7 @@ def build_info_panel(colors):
     header_y = PANEL_TOP + 8
     parts.append(text_el(PANEL_LEFT, header_y, "SYSTEM.INFO", HEADER_FONT, colors["chrome"]))
 
-    live_x = PANEL_RIGHT - 62
-    parts.append(f'<circle cx="{live_x}" cy="{header_y-4}" r="4" fill="{colors["live"]}">'
-                 f'<animate attributeName="opacity" values="1;0.25;1" dur="1.4s" '
-                 f'repeatCount="indefinite"/></circle>')
-    parts.append(text_el(live_x + 10, header_y, "LIVE", LIVE_FONT, colors["live"], weight="bold"))
-
-    pill_y = header_y + 22
+    pill_y = header_y
     pill_text = "@talhaymn7"
     pill_w = len(pill_text) * PILL_FONT * 0.62 + 20
     pill_x = PANEL_RIGHT - pill_w

@@ -6,6 +6,13 @@
   <img alt="Ahmet Talha Yaman" src="https://raw.githubusercontent.com/talhaymn7/talhaymn7/main/light.svg" width="100%" />
 </picture>
 
+<br />
+
+<a href="https://linkedin.com/in/talhaymn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/talhaymn_7"><img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA" alt="Instagram" /></a>&nbsp;&nbsp;
+<a href="mailto:ahmettalhaymn@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981" alt="Gmail" /></a>&nbsp;&nbsp;
+<a href="https://talhaymn7.github.io/"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio" /></a>
+
 <br /><br />
 
 <picture>
@@ -32,12 +39,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/talhaymn7/talhaymn7/output/snake-light.svg" />
   <img alt="contribution snake" src="https://raw.githubusercontent.com/talhaymn7/talhaymn7/output/snake-light.svg" width="100%" />
 </picture>
-
-<br /><br />
-
-<a href="https://linkedin.com/in/talhaymn"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/talhaymn_7"><img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA" alt="Instagram" /></a>&nbsp;&nbsp;
-<a href="mailto:ahmettalhaymn@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981" alt="Gmail" /></a>&nbsp;&nbsp;
-<a href="https://talhaymn7.github.io/"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio" /></a>
 
 </div>
